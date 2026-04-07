@@ -1,0 +1,153 @@
+LITHOTRONIC FINAL ARTIFACT INVENTORY
+Canonical Framework Release v1.0
+
+============================================================
+A. CORE CANONICAL RELEASE SET
+============================================================
+
+1. Canonical Workbook
+- lithotronic_master_transformation_engine_final_canonical_v1_0.xlsx
+
+2. Canonical Field-Book Manual
+- lithotronic_data_input_manual_final_canonical_v1_0.pdf
+
+3. Canonical Field Cards
+- lithotronic_field_cards_final_canonical_v1_0.pdf
+
+============================================================
+B. CORE DIGITAL / REPOSITORY DOCUMENTS
+============================================================
+
+4. Independent Repository README
+- README_lithotronic_development_system_final_v1_0.md
+
+5. Final Continuity Check
+- lithotronic_final_continuity_check_v1_0.pdf
+- lithotronic_final_continuity_check_v1_0.txt
+
+============================================================
+C. NO-COMPUTER OPERATING STACK
+============================================================
+
+6. No-Computer Mathematical Suite
+- lithotronic_no_computer_mathematical_suite_v1_0_fixed.docx
+- lithotronic_no_computer_mathematical_suite_v1_0_fixed.pdf
+
+7. No-Computer Process Manual
+- lithotronic_no_computer_process_manual_v1_0.docx
+- lithotronic_no_computer_process_manual_v1_0.pdf
+
+8. No-Computer Forms Pack
+- lithotronic_no_computer_forms_pack_v1_0.docx
+- lithotronic_no_computer_forms_pack_v1_0.pdf
+
+9. No-Computer Constitution, Symbol Set, and Lookup Tables
+- lithotronic_no_computer_constitution_symbols_lookup_v1_0.docx
+- lithotronic_no_computer_constitution_symbols_lookup_v1_0.pdf
+
+10. Expanded No-Computer Transformation Engine
+- lithotronic_no_computer_transformation_engine_v1_2_expanded.docx
+- lithotronic_no_computer_transformation_engine_v1_2_expanded.pdf
+
+============================================================
+D. ARCHIVE NAVIGATION / GOVERNANCE LAYER
+============================================================
+
+11. Master Index
+- lithotronic_master_index_v1_0.docx
+- lithotronic_master_index_v1_0.pdf
+
+12. Binder Assembly Guide
+- lithotronic_binder_assembly_guide_v1_0.docx
+- lithotronic_binder_assembly_guide_v1_0.pdf
+
+13. Release and Archive Ledger
+- lithotronic_release_archive_ledger_v1_0.docx
+- lithotronic_release_archive_ledger_v1_0.pdf
+
+============================================================
+E. DOMAIN EXPANSION LAYER
+============================================================
+
+14. Domain Playbooks
+- lithotronic_domain_playbooks_v1_0.docx
+- lithotronic_domain_playbooks_v1_0.pdf
+
+15. Worked Example Casebook
+- lithotronic_worked_example_casebook_v1_0.docx
+- lithotronic_worked_example_casebook_v1_0.pdf
+
+============================================================
+F. POST-SET-003 GOVERNANCE LAYER
+============================================================
+
+16. Post-SET-003 Set Taxonomy
+- post_set_003_set_taxonomy_v1_0.pdf
+
+17. Post-SET-003 Promotion Ladder
+- post_set_003_promotion_ladder_v1_0.pdf
+
+============================================================
+G. SUPPORTING RELEASE / LINEAGE DOCUMENTS
+============================================================
+
+18. Release Manifest
+- lithotronic_release_manifest_final_canonical_v1_0.txt
+
+============================================================
+H. OPTIONAL / DEVELOPMENT-SUPPORT ARTIFACTS
+============================================================
+
+19. Final Canonical Manual Source
+- lithotronic_data_input_manual_final_canonical_v1_0.docx
+
+20. Final Canonical Field-Book Source
+- lithotronic_data_input_manual_v1_0_fieldbook.docx
+- lithotronic_data_input_manual_v1_0_fieldbook.pdf
+
+21. Canonical Field Cards Refined
+- lithotronic_field_cards_v1_0_refined.pdf
+
+============================================================
+I. RECOMMENDED "FINAL BOX SET" GROUPING
+============================================================
+
+BOX SET 1 — CORE FIELD SET
+- workbook
+- field-book manual
+- field cards
+
+BOX SET 2 — PAPER-NATIVE OPERATING SET
+- mathematical suite
+- process manual
+- forms pack
+- constitution / symbols / lookup tables
+
+BOX SET 3 — GOVERNANCE AND ARCHIVE SET
+- master index
+- binder assembly guide
+- release and archive ledger
+- continuity check
+- README
+
+BOX SET 4 — EXPANSION AND FUTURE BRANCHING SET
+- domain playbooks
+- worked example casebook
+- post-SET-003 set taxonomy
+- post-SET-003 promotion ladder
+
+============================================================
+J. FINAL STATUS
+============================================================
+
+Framework status:
+- Structurally complete as a canonical v1.0 archive
+
+Remaining future work:
+- measured execution
+- domain-specific validation
+- future set branching
+- later release versions
+
+This inventory should be treated as the top-level artifact map
+for the Lithotronic canonical framework release.

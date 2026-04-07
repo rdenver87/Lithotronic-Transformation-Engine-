@@ -1,0 +1,26 @@
+LITHOTRONIC TRANSFORMATION SYSTEM
+Official Release v1.0
+
+This directory is the official v1.0 release of the Lithotronic Transformation System.
+
+Naming note:
+The word "canonical" has been omitted from the public release filenames for clarity.
+That omission does not change the status of the files. These remain the reference v1.0 release set.
+
+Core release triad:
+1. lithotronic_master_transformation_engine_v1_0.xlsx
+2. lithotronic_data_input_manual_v1_0.pdf
+3. lithotronic_field_cards_v1_0.pdf
+
+Supporting structure:
+- repository and continuity documents
+- no-computer operating stack
+- navigation and governance documents
+- expansion and example documents
+
+Status:
+This release may be treated as the official v1.0 Lithotronic framework archive.
+
+Important distinction:
+The framework is complete as an official release system.
+Individual future methods, runs, recipes, or habitat modules still require measured validation and governance before they become promoted standards.
